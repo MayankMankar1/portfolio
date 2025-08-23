@@ -9,7 +9,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/HangMan.png",
+    image: "/portfolio/assets/projects/HangMan.png",
     tags: [
       {
         id: 1,
