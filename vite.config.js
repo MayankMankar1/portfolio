@@ -24,6 +24,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ command }) => ({
   plugins: [react(), tailwindcss()],
-  base: command === "build" ? "/portfolio/" : "/", // 👈 only set base in build
-  // base:"/portfolio/",
+  // base: command === "build" ? "/portfolio/" : "/", // 👈 only set base in build
+   base:"/portfolio/",
 }));
