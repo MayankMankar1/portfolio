@@ -10,7 +10,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/portfolio/portfolio/assets/projects/HangMan.png",
+    image: "/portfolio/assets/projects/HangMan.png",
     tags: [
       {
         id: 1,
