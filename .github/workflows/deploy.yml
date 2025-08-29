@@ -23,8 +23,8 @@ jobs:
         run: npm install
              npm install rollup --save-dev
              npm install @tailwindcss/oxide --save-dev
-             
-        
+             npm install lighthingcss =--save-dev  
+          
     
 
 
